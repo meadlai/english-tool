@@ -1,0 +1,877 @@
+读取页数为：412
+
+
+
+== Report 文章包含CET6词汇个数 = 495
+== Report 词汇覆盖率为： 38.491447%
+== Report 词频统计分析报告 - 2000
+            software = 79, 页码列表: ,    3,   22,   28,   54,   55,   66,   76,   91,  104,  105,  107,  108,  119,  120,  124,  128,  129,  130,  131,  136,  139,  140,  146,  150,  154,  165,  166,  167,  168,  169,  170,  171,  172,  173,  174,  176,  177,  178,  197,  208,  211,  213,  218,  229,  237,  252,  255,  257,  258,  261,  267,  268,  269,  273,  275,  277,  281,  283,  284,  286,  319,  322,  323,  325,  326,  327,  340,  345,  347,  348,  355,  356,  364,  369,  380,  382,  388,  390,  392
+                 guy = 40, 页码列表: ,   17,   21,   25,   27,   29,   32,   55,   63,   66,   85,   94,   95,  106,  108,  110,  128,  136,  157,  174,  187,  190,  193,  214,  219,  222,  225,  232,  245,  256,  278,  280,  290,  299,  305,  319,  325,  345,  381,  382,  392
+               given = 36, 页码列表: ,   14,   44,   47,   49,   58,   72,   73,   82,  140,  145,  146,  150,  174,  176,  178,  180,  197,  198,  201,  202,  204,  205,  218,  227,  249,  271,  300,  314,  319,  326,  332,  338,  343,  346,  377,  385
+           corporate = 35, 页码列表: ,   76,   78,   80,   88,   94,  103,  110,  111,  112,  113,  114,  121,  138,  141,  144,  146,  147,  148,  158,  162,  173,  225,  227,  234,  243,  261,  276,  284,  296,  304,  314,  332,  353,  362,  367
+            consumer = 27, 页码列表: ,   62,   88,  102,  113,  187,  206,  209,  226,  238,  246,  261,  267,  268,  273,  279,  280,  285,  306,  309,  310,  324,  344,  345,  355,  356,  359,  369
+             elegant = 17, 页码列表: ,   62,  100,  133,  134,  137,  159,  186,  210,  242,  248,  250,  267,  268,  327,  366,  373,  388
+        presentation = 17, 页码列表: ,   30,   52,   57,   62,   75,  108,  117,  146,  150,  177,  203,  219,  239,  271,  308,  364,  380
+           prototype = 15, 页码列表: ,   60,   61,   77,   87,   89,   98,  109,  114,  166,  180,  247,  261,  262,  263,  279
+         electronics = 13, 页码列表: ,   19,   22,   24,   25,   27,   29,   51,   53,   59,  242,  280,  285,  296
+               bunch = 13, 页码列表: ,   25,   30,   57,   77,  117,  123,  130,  164,  175,  238,  268,  296,  357
+                chip = 12, 页码列表: ,   18,   48,   50,   53,   54,   58,   64,  154,  158,  311,  341,  344
+              tablet = 12, 页码列表: ,    3,  216,  325,  326,  330,  340,  341,  343,  364,  385,  389,  391
+             classic = 11, 页码列表: ,   98,   99,  132,  177,  203,  213,  234,  275,  280,  300,  362
+              studio = 11, 页码列表: ,  202,  206,  234,  241,  243,  248,  303,  307,  326,  362,  363
+             furious = 11, 页码列表: ,   45,   67,  138,  142,  267,  270,  286,  320,  333,  354,  381
+            destined = 11, 页码列表: ,   69,   78,   86,  120,  166,  180,  186,  214,  223,  275,  362
+        intersection = 10, 页码列表: ,   40,  171,  265,  267,  306,  343,  364,  372,  391,  392
+           exclusive = 9, 页码列表: ,   66,  107,  123,  169,  228,  270,  271,  292,  351
+                foam = 9, 页码列表: ,   63,   71,  117,  241,  243,  244,  246,  247,  273
+               theme = 9, 页码列表: ,   15,   54,   97,  119,  124,  126,  303,  304,  305
+              barely = 9, 页码列表: ,   21,   36,   37,   90,   94,   99,  315,  331,  337
+               quest = 9, 页码列表: ,   35,   40,   43,   87,  177,  181,  242,  333,  388
+              brutal = 9, 页码列表: ,  118,  134,  145,  147,  165,  175,  230,  271,  285
+             dubious = 8, 页码列表: ,   55,   63,  200,  205,  237,  277,  331,  348
+              versus = 8, 页码列表: ,   42,  120,  196,  354,  355,  359,  388,  411
+                slot = 8, 页码列表: ,   42,   56,   57,  122,  248,  251,  268,  272
+              notion = 8, 页码列表: ,   15,   53,   55,   72,   96,  230,  236,  304
+              purity = 8, 页码列表: ,  159,  161,  187,  188,  232,  242,  273,  359
+                 web = 8, 页码列表: ,  172,  209,  271,  343,  349,  350,  358,  391
+           negotiate = 8, 页码列表: ,   16,  172,  201,  213,  284,  294,  305,  351
+              option = 8, 页码列表: ,   13,   72,  110,  151,  202,  272,  312,  337
+       collaboration = 8, 页码列表: ,  157,  240,  242,  246,  255,  301,  304,  338
+          incredible = 8, 页码列表: ,   29,  107,  122,  130,  206,  374,  382,  385
+             interim = 8, 页码列表: ,   90,  214,  224,  235,  239,  256,  257,  258
+              poster = 7, 页码列表: ,   67,   82,   84,  107,  136,  263,  312
+           intuition = 7, 页码列表: ,   45,   46,  234,  253,  254,  278,  391
+           aesthetic = 7, 页码列表: ,  102,  133,  135,  189,  247,  261,  390
+               media = 7, 页码列表: ,  106,  123,  348,  358,  361,  369,  382
+             indulge = 7, 页码列表: ,   63,   65,  134,  158,  192,  277,  347
+            creation = 7, 页码列表: ,  126,  242,  244,  300,  344,  390,  391
+               charm = 7, 页码列表: ,   41,   42,  123,  137,  163,  221,  351
+                grab = 7, 页码列表: ,  191,  222,  244,  250,  290,  324,  341
+            historic = 7, 页码列表: ,   70,  168,  206,  271,  280,  303,  342
+              assert = 7, 页码列表: ,   92,  144,  175,  217,  295,  302,  361
+             massive = 7, 页码列表: ,   35,  228,  238,  257,  360,  362,  370
+           publicity = 7, 页码列表: ,  107,  109,  113,  123,  156,  310,  313
+              subtle = 6, 页码列表: ,   40,   46,  169,  287,  310,  392
+              retail = 6, 页码列表: ,   59,   79,  259,  262,  263,  370
+              budget = 6, 页码列表: ,   95,  118,  122,  144,  175,  204
+                diet = 6, 页码列表: ,   42,   69,  116,  185,  200,  316
+             hearing = 6, 页码列表: ,  132,  150,  155,  241,  308,  322
+          innovation = 6, 页码列表: ,  236,  259,  275,  301,  338,  376
+           integrate = 6, 页码列表: ,  263,  355,  369,  388,  389,  392
+              random = 6, 页码列表: ,   28,   54,  116,  286,  300,  301
+     straightforward = 6, 页码列表: ,   55,   75,  108,  182,  274,  346
+              patent = 6, 页码列表: ,   99,  228,  229,  244,  263,  341
+                mess = 6, 页码列表: ,  143,  204,  282,  324,  347,  352
+               lobby = 6, 页码列表: ,   41,  107,  162,  182,  187,  347
+             insight = 6, 页码列表: ,  262,  267,  273,  287,  365,  367
+                fake = 6, 页码列表: ,   68,  194,  302,  346,  360,  378
+               prone = 6, 页码列表: ,   42,  187,  254,  284,  359,  379
+                 ego = 5, 页码列表: ,   69,  115,  175,  216,  305
+          consultant = 5, 页码列表: ,   60,  107,  235,  263,  380
+                 rip = 5, 页码列表: ,   63,  117,  128,  251,  393
+           integrity = 5, 页码列表: ,  158,  224,  327,  348,  359
+             counsel = 5, 页码列表: ,  145,  147,  148,  314,  334
+         competitive = 5, 页码列表: ,  123,  154,  216,  347,  369
+          transition = 5, 页码列表: ,   21,  146,  217,  359,  384
+               clash = 5, 页码列表: ,   80,   87,  144,  175,  271
+              comedy = 5, 页码列表: ,  195,  297,  299,  319,  378
+             essence = 4, 页码列表: ,  203,  242,  275,  341
+            dominate = 4, 页码列表: ,  118,  120,  125,  242
+          manipulate = 4, 页码列表: ,   94,  117,  123,  222
+              script = 4, 页码列表: ,   30,  204,  250,  292
+         accommodate = 4, 页码列表: ,   19,   87,  243,  267
+               nasty = 4, 页码列表: ,  136,  143,  217,  390
+              insane = 4, 页码列表: ,   38,  192,  218,  280
+           sculpture = 4, 页码列表: ,  106,  114,  115,  310
+        specifically = 4, 页码列表: ,   14,   93,  348,  352
+              cruise = 4, 页码列表: ,   84,  305,  365,  383
+               sheer = 4, 页码列表: ,   89,   91,  161,  217
+             distort = 4, 页码列表: ,   41,   72,   86,   92
+               trait = 4, 页码列表: ,   93,  170,  256,  321
+             context = 4, 页码列表: ,  354,  359,  362,  377
+           strategic = 4, 页码列表: ,  227,  253,  305,  351
+            horrible = 4, 页码列表: ,  138,  192,  214,  324
+             cartoon = 4, 页码列表: ,  171,  174,  248,  362
+             privacy = 4, 页码列表: ,  334,  350,  351,  357
+         destructive = 4, 页码列表: ,  198,  228,  278,  352
+           realistic = 4, 页码列表: ,   91,  163,  173,  177
+             recruit = 4, 页码列表: ,   48,  156,  174,  226
+              slogan = 4, 页码列表: ,  269,  286,  338,  354
+               array = 4, 页码列表: ,  100,  266,  346,  379
+          perfection = 4, 页码列表: ,    3,   63,  161,  388
+          journalist = 3, 页码列表: ,   21,  199,  220
+                dual = 3, 页码列表: ,  216,  281,  333
+           editorial = 3, 页码列表: ,  220,  350,  357
+            confront = 3, 页码列表: ,  147,  237,  342
+           implement = 3, 页码列表: ,   41,   43,   78
+              fusion = 3, 页码列表: ,   51,   52,   53
+              pledge = 3, 页码列表: ,   16,   34,  155
+            decisive = 3, 页码列表: ,  102,  319,  351
+              thesis = 3, 页码列表: ,   85,  154,  240
+          underlying = 3, 页码列表: ,   15,   52,  242
+          transplant = 3, 页码列表: ,  335,  336,  342
+              robust = 3, 页码列表: ,  246,  296,  351
+            dominant = 3, 页码列表: ,  122,  355,  359
+             reclaim = 3, 页码列表: ,  122,  217,  234
+               verge = 3, 页码列表: ,   59,  202,  205
+         temperament = 3, 页码列表: ,  128,  245,  388
+          perception = 3, 页码列表: ,  355,  360,  361
+              kidney = 3, 页码列表: ,  235,  315,  316
+            pregnant = 3, 页码列表: ,   58,   72,  301
+              estate = 3, 页码列表: ,   13,   16,   44
+            rigorous = 3, 页码列表: ,   35,  253,  360
+         forthcoming = 3, 页码列表: ,  129,  223,  334
+           undermine = 3, 页码列表: ,  107,  144,  198
+           fantastic = 3, 页码列表: ,  240,  331,  393
+             refrain = 3, 页码列表: ,   47,  183,  347
+        confidential = 3, 页码列表: ,   77,  105,  160
+             genetic = 3, 页码列表: ,  336,  372,  380
+             silicon = 3, 页码列表: ,   18,  129,  342
+                gene = 3, 页码列表: ,  101,  153,  380
+             compact = 3, 页码列表: ,   88,  107,  246
+                raid = 3, 页码列表: ,   78,  109,  155
+             therapy = 3, 页码列表: ,   47,  378,  380
+               rally = 3, 页码列表: ,  210,  236,  250
+           skeptical = 3, 页码列表: ,  122,  275,  307
+               haunt = 3, 页码列表: ,   54,  116,  257
+               midst = 3, 页码列表: ,  116,  176,  219
+            profound = 3, 页码列表: ,   40,   47,  297
+            distract = 3, 页码列表: ,  169,  337,  341
+                solo = 3, 页码列表: ,   70,  289,  322
+             royalty = 3, 页码列表: ,  280,  294,  295
+              stereo = 3, 页码列表: ,   26,   90,  107
+               bonus = 3, 页码列表: ,   49,   50,  140
+              recipe = 3, 页码列表: ,  117,  123,  262
+              decent = 3, 页码列表: ,   13,   64,  176
+               badge = 3, 页码列表: ,   28,   69,  342
+              global = 3, 页码列表: ,   57,  330,  382
+              impart = 3, 页码列表: ,   44,   48,   59
+            bulletin = 3, 页码列表: ,   34,   53,   82
+              ripple = 3, 页码列表: ,  109,  169,  251
+           inventory = 3, 页码列表: ,  137,  253,  254
+          profitable = 3, 页码列表: ,   95,  165,  239
+              scared = 3, 页码列表: ,   17,  247,  355
+           architect = 3, 页码列表: ,   97,  114,  300
+                flaw = 3, 页码列表: ,  133,  360,  387
+              agenda = 3, 页码列表: ,  147,  154,  172
+          commitment = 3, 页码列表: ,  169,  229,  235
+         replacement = 3, 页码列表: ,   80,  112,  135
+               tract = 3, 页码列表: ,   15,   21,   71
+            interact = 3, 页码列表: ,   42,  130,  253
+                snap = 3, 页码列表: ,  160,  326,  363
+         spontaneous = 2, 页码列表: ,   89,  301
+              gloomy = 2, 页码列表: ,  169,  209
+             notable = 2, 页码列表: ,  151,  264
+               facet = 2, 页码列表: ,   50,  214
+         anniversary = 2, 页码列表: ,  134,  366
+             vicious = 2, 页码列表: ,  378,  379
+           versatile = 2, 页码列表: ,  297,  331
+               forum = 2, 页码列表: ,  166,  333
+            contempt = 2, 页码列表: ,  143,  389
+             romance = 2, 页码列表: ,  157,  180
+             decline = 2, 页码列表: ,  209,  392
+           resonance = 2, 页码列表: ,   72,  121
+          likelihood = 2, 页码列表: ,  160,  335
+           successor = 2, 页码列表: ,   60,  270
+          curriculum = 2, 页码列表: ,  353,  383
+             senator = 2, 页码列表: ,  305,  308
+          facilitate = 2, 页码列表: ,  287,  344
+             radical = 2, 页码列表: ,  308,  317
+              legend = 2, 页码列表: ,   27,  321
+                 tug = 2, 页码列表: ,   80,  261
+           expertise = 2, 页码列表: ,  107,  134
+                dock = 2, 页码列表: ,  256,  258
+                toss = 2, 页码列表: ,   71,  182
+              shrewd = 2, 页码列表: ,   64,  123
+               theft = 2, 页码列表: ,  277,  302
+         declaration = 2, 页码列表: ,  102,  338
+               yacht = 2, 页码列表: ,  206,  366
+               evoke = 2, 页码列表: ,  184,  233
+          engagement = 2, 页码列表: ,   36,  193
+         incorporate = 2, 页码列表: ,  162,  258
+         participant = 2, 页码列表: ,   52,   54
+                tile = 2, 页码列表: ,  196,  264
+                boom = 2, 页码列表: ,   17,   90
+              summit = 2, 页码列表: ,   31,  362
+             clarity = 2, 页码列表: ,  159,  275
+           recipient = 2, 页码列表: ,  335,  339
+              circus = 2, 页码列表: ,  106,  298
+            metallic = 2, 页码列表: ,  122,  243
+            explicit = 2, 页码列表: ,  262,  350
+              denial = 2, 页码列表: ,  199,  333
+             premium = 2, 页码列表: ,   13,  324
+            gracious = 2, 页码列表: ,  283,  323
+           tentative = 2, 页码列表: ,  124,  235
+                chat = 2, 页码列表: ,  117,  345
+                clip = 2, 页码列表: ,  248,  249
+                foil = 2, 页码列表: ,  122,  185
+              cellar = 2, 页码列表: ,  221,  350
+              format = 2, 页码列表: ,  269,  286
+                plea = 2, 页码列表: ,  146,  149
+           detective = 2, 页码列表: ,  181,  183
+         inspiration = 2, 页码列表: ,   99,  157
+               sauce = 2, 页码列表: ,  136,  284
+                 ban = 2, 页码列表: ,  237,  357
+                veil = 2, 页码列表: ,   78,  168
+             profile = 2, 页码列表: ,  106,  123
+            integral = 2, 页码列表: ,  174,  243
+            humanity = 2, 页码列表: ,  199,  392
+              advent = 2, 页码列表: ,  209,  348
+         imaginative = 2, 页码列表: ,  251,  391
+                vent = 2, 页码列表: ,  219,  299
+                gasp = 2, 页码列表: ,  120,  152
+       differentiate = 2, 页码列表: ,  116,  356
+            paradise = 2, 页码列表: ,   24,  244
+               vocal = 2, 页码列表: ,  123,  135
+             tuition = 2, 页码列表: ,   28,   40
+                 bid = 2, 页码列表: ,  135,  210
+            striking = 2, 页码列表: ,   27,  350
+             whereas = 2, 页码列表: ,   88,  137
+                skip = 2, 页码列表: ,   21,  287
+           quarterly = 2, 页码列表: ,  146,  371
+               brood = 2, 页码列表: ,   87,  188
+            retrieve = 2, 页码列表: ,  149,  156
+            conceive = 2, 页码列表: ,   75,  273
+              immune = 2, 页码列表: ,  210,  315
+             readily = 2, 页码列表: ,   29,  351
+        contribution = 2, 页码列表: ,  304,  393
+                edit = 2, 页码列表: ,  267,  268
+               boost = 2, 页码列表: ,  264,  340
+                 sue = 2, 页码列表: ,  157,  158
+                fist = 2, 页码列表: ,  159,  346
+             caution = 2, 页码列表: ,  253,  301
+           rebellion = 2, 页码列表: ,   35,  147
+             texture = 2, 页码列表: ,  152,  263
+        entrepreneur = 2, 页码列表: ,    3,   41
+          revelation = 2, 页码列表: ,  183,  306
+              cradle = 2, 页码列表: ,   18,  244
+           assurance = 2, 页码列表: ,  212,  284
+           eccentric = 2, 页码列表: ,   38,  144
+           ingenious = 2, 页码列表: ,   61,   62
+                 kit = 2, 页码列表: ,   20,   53
+             corrupt = 2, 页码列表: ,  172,  209
+              sturdy = 2, 页码列表: ,  196,  244
+             seminar = 2, 页码列表: ,   88,   98
+           incentive = 2, 页码列表: ,  259,  277
+            simulate = 2, 页码列表: ,   86,  153
+              ethnic = 2, 页码列表: ,   21,   68
+         resemblance = 2, 页码列表: ,   12,  375
+         susceptible = 2, 页码列表: ,  161,  378
+            spectrum = 2, 页码列表: ,  188,  281
+            periodic = 2, 页码列表: ,  165,  378
+         rectangular = 2, 页码列表: ,  100,  341
+               token = 2, 页码列表: ,  116,  376
+             bizarre = 2, 页码列表: ,   83,  192
+         conspicuous = 2, 页码列表: ,  216,  274
+               verse = 2, 页码列表: ,  125,  151
+             fragile = 2, 页码列表: ,   33,  336
+              intent = 2, 页码列表: ,   80,  219
+           cafeteria = 1, 页码列表: ,   23
+           enclosure = 1, 页码列表: ,  359
+           fluctuate = 1, 页码列表: ,  193
+             thermal = 1, 页码列表: ,  368
+             upgrade = 1, 页码列表: ,  237
+            coincide = 1, 页码列表: ,   67
+              triple = 1, 页码列表: ,  274
+          conception = 1, 页码列表: ,   78
+           commodity = 1, 页码列表: ,  263
+            obedient = 1, 页码列表: ,   13
+            symphony = 1, 页码列表: ,   33
+           staircase = 1, 页码列表: ,  162
+            minimize = 1, 页码列表: ,  109
+               lease = 1, 页码列表: ,  332
+                slap = 1, 页码列表: ,  251
+                jerk = 1, 页码列表: ,  106
+              ethics = 1, 页码列表: ,  286
+             fantasy = 1, 页码列表: ,  252
+            shipment = 1, 页码列表: ,  183
+                jail = 1, 页码列表: ,  197
+            gorgeous = 1, 页码列表: ,   77
+            marginal = 1, 页码列表: ,  261
+          illuminate = 1, 页码列表: ,  271
+                myth = 1, 页码列表: ,  390
+                 rim = 1, 页码列表: ,  359
+              revive = 1, 页码列表: ,  173
+             cordial = 1, 页码列表: ,  322
+              melody = 1, 页码列表: ,  290
+            optimism = 1, 页码列表: ,  353
+               irony = 1, 页码列表: ,  191
+                 tow = 1, 页码列表: ,   34
+           energetic = 1, 页码列表: ,  105
+              linear = 1, 页码列表: ,   63
+           historian = 1, 页码列表: ,   52
+             species = 1, 页码列表: ,  394
+              aerial = 1, 页码列表: ,  370
+          automation = 1, 页码列表: ,  136
+           ambitious = 1, 页码列表: ,  392
+             charity = 1, 页码列表: ,  179
+                reap = 1, 页码列表: ,  348
+              buffer = 1, 页码列表: ,   87
+              ritual = 1, 页码列表: ,  245
+               hatch = 1, 页码列表: ,   36
+          articulate = 1, 页码列表: ,  135
+                tick = 1, 页码列表: ,   28
+           reconcile = 1, 页码列表: ,  212
+                yell = 1, 页码列表: ,  198
+            activate = 1, 页码列表: ,  327
+                mock = 1, 页码列表: ,  108
+                gear = 1, 页码列表: ,   23
+             despise = 1, 页码列表: ,  240
+          intimidate = 1, 页码列表: ,   41
+         coincidence = 1, 页码列表: ,   72
+             blossom = 1, 页码列表: ,   46
+            bachelor = 1, 页码列表: ,  194
+            manifest = 1, 页码列表: ,  188
+            endeavor = 1, 页码列表: ,  276
+            foremost = 1, 页码列表: ,  139
+         consecutive = 1, 页码列表: ,  339
+          productive = 1, 页码列表: ,  339
+              summon = 1, 页码列表: ,  237
+             cluster = 1, 页码列表: ,  193
+          concession = 1, 页码列表: ,  283
+             testify = 1, 页码列表: ,   73
+               chaos = 1, 页码列表: ,  217
+                 apt = 1, 页码列表: ,  256
+           warehouse = 1, 页码列表: ,  261
+              induce = 1, 页码列表: ,  379
+           dissipate = 1, 页码列表: ,  330
+          stereotype = 1, 页码列表: ,   15
+       entertainment = 1, 页码列表: ,  319
+              clause = 1, 页码列表: ,  142
+             surplus = 1, 页码列表: ,   24
+            suppress = 1, 页码列表: ,   28
+              gossip = 1, 页码列表: ,  357
+              dazzle = 1, 页码列表: ,   77
+           disregard = 1, 页码列表: ,  110
+               dwell = 1, 页码列表: ,   56
+          vulnerable = 1, 页码列表: ,  245
+             compile = 1, 页码列表: ,  321
+             segment = 1, 页码列表: ,  164
+               cater = 1, 页码列表: ,  135
+             overlap = 1, 页码列表: ,   80
+           proximity = 1, 页码列表: ,  200
+         installment = 1, 页码列表: ,  373
+            cautious = 1, 页码列表: ,   64
+             minimal = 1, 页码列表: ,   88
+                ally = 1, 页码列表: ,   56
+             enhance = 1, 页码列表: ,  137
+            momentum = 1, 页码列表: ,  238
+                buzz = 1, 页码列表: ,  264
+             obscene = 1, 页码列表: ,   73
+             premise = 1, 页码列表: ,  328
+       controversial = 1, 页码列表: ,  358
+             elevate = 1, 页码列表: ,   94
+              tenant = 1, 页码列表: ,   18
+           promising = 1, 页码列表: ,  169
+            priority = 1, 页码列表: ,  131
+            terrific = 1, 页码列表: ,  250
+            feminine = 1, 页码列表: ,  343
+          enterprise = 1, 页码列表: ,  157
+           formulate = 1, 页码列表: ,   82
+            heighten = 1, 页码列表: ,  185
+          competence = 1, 页码列表: ,   19
+             pretext = 1, 页码列表: ,  219
+                grin = 1, 页码列表: ,  111
+          henceforth = 1, 页码列表: ,   90
+              foster = 1, 页码列表: ,  255
+                rage = 1, 页码列表: ,  180
+           offspring = 1, 页码列表: ,  389
+            alliance = 1, 页码列表: ,  166
+          invaluable = 1, 页码列表: ,  394
+           alleviate = 1, 页码列表: ,  160
+              enrich = 1, 页码列表: ,  113
+             flatter = 1, 页码列表: ,  381
+            survival = 1, 页码列表: ,  219
+               corps = 1, 页码列表: ,  108
+              cereal = 1, 页码列表: ,   31
+               ample = 1, 页码列表: ,  270
+                soar = 1, 页码列表: ,  338
+               acute = 1, 页码列表: ,  305
+             radiant = 1, 页码列表: ,   16
+           highlight = 1, 页码列表: ,  206
+          compliment = 1, 页码列表: ,   91
+           subscribe = 1, 页码列表: ,  283
+           economics = 1, 页码列表: ,   39
+          pedestrian = 1, 页码列表: ,  363
+              clinic = 1, 页码列表: ,  316
+          depression = 1, 页码列表: ,  379
+             fitting = 1, 页码列表: ,  247
+              resent = 1, 页码列表: ,  319
+          diplomatic = 1, 页码列表: ,  204
+            colonial = 1, 页码列表: ,  197
+          assumption = 1, 页码列表: ,  317
+               carve = 1, 页码列表: ,  281
+           intellect = 1, 页码列表: ,   45
+              domain = 1, 页码列表: ,  279
+           lubricate = 1, 页码列表: ,   29
+         acquisition = 1, 页码列表: ,  307
+           biography = 1, 页码列表: ,  391
+            petition = 1, 页码列表: ,  286
+            analytic = 1, 页码列表: ,  128
+              absurd = 1, 页码列表: ,   87
+             plaster = 1, 页码列表: ,   99
+             garbage = 1, 页码列表: ,  214
+             portray = 1, 页码列表: ,  392
+          thereafter = 1, 页码列表: ,   56
+          conviction = 1, 页码列表: ,   38
+              marble = 1, 页码列表: ,  365
+               hinge = 1, 页码列表: ,  363
+             virtual = 1, 页码列表: ,   79
+              client = 1, 页码列表: ,  369
+              gamble = 1, 页码列表: ,  166
+               relay = 1, 页码列表: ,   59
+       specification = 1, 页码列表: ,   53
+         spectacular = 1, 页码列表: ,  158
+           intricate = 1, 页码列表: ,  200
+             costume = 1, 页码列表: ,  200
+             pursuit = 1, 页码列表: ,   45
+              notify = 1, 页码列表: ,   88
+                veto = 1, 页码列表: ,  353
+         disposition = 1, 页码列表: ,   12
+            withhold = 1, 页码列表: ,  349
+             refugee = 1, 页码列表: ,   94
+          compensate = 1, 页码列表: ,  375
+               bribe = 1, 页码列表: ,   20
+             certify = 1, 页码列表: ,  353
+              thrill = 1, 页码列表: ,  196
+            monopoly = 1, 页码列表: ,  392
+             antique = 1, 页码列表: ,  117
+             chronic = 1, 页码列表: ,  380
+             bearing = 1, 页码列表: ,  383
+            proclaim = 1, 页码列表: ,  347
+             tactics = 1, 页码列表: ,  286
+                 spy = 1, 页码列表: ,   17
+           sentiment = 1, 页码列表: ,  138
+            displace = 1, 页码列表: ,  123
+            illusion = 1, 页码列表: ,   80
+           execution = 1, 页码列表: ,   79
+              embark = 1, 页码列表: ,  378
+               stern = 1, 页码列表: ,  143
+         acknowledge = 1, 页码列表: ,  151
+          manuscript = 1, 页码列表: ,  200
+             conform = 1, 页码列表: ,   51
+         circulation = 1, 页码列表: ,  350
+               elbow = 1, 页码列表: ,  137
+             episode = 1, 页码列表: ,  142
+                curb = 1, 页码列表: ,   41
+           composite = 1, 页码列表: ,  190
+                mall = 1, 页码列表: ,  260
+        enthusiastic = 1, 页码列表: ,   70
+             impulse = 1, 页码列表: ,  196
+           offensive = 1, 页码列表: ,  206
+              closet = 1, 页码列表: ,  111
+           speculate = 1, 页码列表: ,  315
+         residential = 1, 页码列表: ,  192
+             adverse = 1, 页码列表: ,  313
+           intervene = 1, 页码列表: ,   39
+              ignite = 1, 页码列表: ,  123
+              elicit = 1, 页码列表: ,  364
+             trivial = 1, 页码列表: ,  167
+            drawback = 1, 页码列表: ,  389
+             disrupt = 1, 页码列表: ,  383
+              dismay = 1, 页码列表: ,  133
+              propel = 1, 页码列表: ,  293
+               flush = 1, 页码列表: ,  200
+              mortal = 1, 页码列表: ,   93
+                damn = 1, 页码列表: ,   19
+              timber = 1, 页码列表: ,  194
+            mortgage = 1, 页码列表: ,   84
+            identity = 1, 页码列表: ,  287
+              climax = 1, 页码列表: ,  228
+             violate = 1, 页码列表: ,  334
+               graze = 1, 页码列表: ,  244
+              mingle = 1, 页码列表: ,  301
+        prescription = 1, 页码列表: ,  217
+           anonymous = 1, 页码列表: ,  188
+              chorus = 1, 页码列表: ,  249
+                poll = 1, 页码列表: ,  148
+                axis = 1, 页码列表: ,  352
+              divert = 1, 页码列表: ,  165
+          streamline = 1, 页码列表: ,  261
+              cavity = 1, 页码列表: ,  374
+                poke = 1, 页码列表: ,  168
+             fixture = 1, 页码列表: ,  290
+               fraud = 1, 页码列表: ,  155
+           testimony = 1, 页码列表: ,  302
+             embassy = 1, 页码列表: ,  152
+          invariably = 1, 页码列表: ,  263
+               exile = 1, 页码列表: ,  250
+           seemingly = 1, 页码列表: ,  144
+           numerical = 1, 页码列表: ,  326
+          ambassador = 1, 页码列表: ,  184
+            category = 1, 页码列表: ,  275
+== Report 词汇密度分析报告 - 2000
+		第  123页有13个单词, 词汇列表为: recipe,media,ignite,publicity,manipulate,competitive,exclusive,profile,vocal,charm,shrewd,displace,bunch,
+		第  107页有11个单词, 词汇列表为: publicity,poster,consultant,exclusive,undermine,incredible,expertise,lobby,compact,stereo,software,
+		第  359页有10个单词, 词汇列表为: dominant,transition,context,versus,consumer,prone,purity,enclosure,integrity,rim,
+		第  392页有10个单词, 词汇列表为: subtle,intersection,humanity,integrate,software,ambitious,portray,guy,decline,monopoly,
+		第  242页有9个单词, 词汇列表为: electronics,underlying,elegant,quest,dominate,essence,creation,collaboration,purity,
+		第  261页有9个单词, 词汇列表为: corporate,marginal,tug,consumer,prototype,warehouse,aesthetic,software,streamline,
+		第  263页有9个单词, 词汇列表为: prototype,commodity,retail,consultant,poster,integrate,invariably,patent,texture,
+		第  117页有8个单词, 词汇列表为: antique,foam,chat,rip,presentation,recipe,manipulate,bunch,
+		第  122页有8个单词, 词汇列表为: foil,reclaim,skeptical,budget,metallic,incredible,slot,dominant,
+		第  169页有8个单词, 词汇列表为: gloomy,ripple,subtle,distract,software,commitment,promising,exclusive,
+		第  244页有8个单词, 词汇列表为: grab,graze,paradise,creation,foam,patent,cradle,sturdy,
+		第  267页有8个单词, 词汇列表为: furious,insight,software,intersection,consumer,edit,elegant,accommodate,
+		第  271页有8个单词, 词汇列表为: clash,given,web,exclusive,historic,illuminate,brutal,presentation,
+		第  275页有8个单词, 词汇列表为: innovation,category,classic,essence,destined,software,clarity,skeptical,
+		第  286页有8个单词, 词汇列表为: software,format,slogan,furious,tactics,ethics,petition,random,
+		第  305页有8个单词, 词汇列表为: strategic,guy,ego,theme,cruise,acute,negotiate,senator,
+		第  351页有8个单词, 词汇列表为: robust,negotiate,charm,exclusive,decisive,strategic,readily,privacy,
+		第  362页有8个单词, 词汇列表为: corporate,massive,cartoon,destined,context,summit,classic,studio,
+		第   21页有7个单词, 词汇列表为: skip,transition,ethnic,journalist,barely,tract,guy,
+		第   41页有7个单词, 词汇列表为: lobby,entrepreneur,charm,intimidate,distort,implement,curb,
+		第   53页有7个单词, 词汇列表为: notion,electronics,kit,fusion,bulletin,specification,chip,
+		第   63页有7个单词, 词汇列表为: dubious,foam,guy,linear,rip,perfection,indulge,
+		第   72页有7个单词, 词汇列表为: distort,option,given,coincidence,notion,pregnant,resonance,
+		第   80页有7个单词, 词汇列表为: overlap,illusion,replacement,clash,tug,corporate,intent,
+		第   87页有7个单词, 词汇列表为: clash,prototype,brood,accommodate,quest,absurd,buffer,
+		第   88页有7个单词, 词汇列表为: corporate,whereas,seminar,notify,minimal,compact,consumer,
+		第  144页有7个单词, 词汇列表为: budget,eccentric,clash,assert,corporate,undermine,seemingly,
+		第  146页有7个单词, 词汇列表为: transition,software,quarterly,presentation,corporate,plea,given,
+		第  200页有7个单词, 词汇列表为: flush,dubious,diet,intricate,manuscript,proximity,costume,
+		第  206页有7个单词, 词汇列表为: incredible,offensive,highlight,historic,studio,consumer,yacht,
+		第  217页有7个单词, 词汇列表为: reclaim,assert,transition,prescription,chaos,nasty,sheer,
+		第  219页有7个单词, 词汇列表为: intent,survival,vent,presentation,midst,pretext,guy,
+		第  280页有7个单词, 词汇列表为: guy,historic,consumer,electronics,insane,royalty,classic,
+		第  301页有7个单词, 词汇列表为: spontaneous,random,innovation,mingle,collaboration,pregnant,caution,
+		第  319页有7个单词, 词汇列表为: entertainment,comedy,decisive,resent,given,software,guy,
+		第  341页有7个单词, 词汇列表为: essence,distract,grab,patent,rectangular,tablet,chip,
+		第  347页有7个单词, 词汇列表为: proclaim,refrain,indulge,software,mess,lobby,competitive,
+		第  348页有7个单词, 词汇列表为: reap,software,integrity,specifically,media,dubious,advent,
+		第  350页有7个单词, 词汇列表为: editorial,privacy,explicit,striking,cellar,web,circulation,
+		第  355页有7个单词, 词汇列表为: scared,perception,integrate,dominant,versus,software,consumer,
+		第  378页有7个单词, 词汇列表为: periodic,comedy,fake,therapy,vicious,embark,susceptible,
+		第  380页有7个单词, 词汇列表为: gene,genetic,therapy,consultant,presentation,software,chronic,
+		第  388页有7个单词, 词汇列表为: temperament,quest,perfection,software,integrate,versus,elegant,
+		第  391页有7个单词, 词汇列表为: web,creation,tablet,imaginative,intuition,intersection,biography,
+		第   28页有6个单词, 词汇列表为: tick,suppress,badge,random,software,tuition,
+		第   42页有6个单词, 词汇列表为: diet,interact,prone,charm,versus,slot,
+		第   54页有6个单词, 词汇列表为: chip,haunt,software,random,participant,theme,
+		第   78页有6个单词, 词汇列表为: corporate,veil,destined,raid,conception,implement,
+		第   94页有6个单词, 词汇列表为: manipulate,elevate,barely,refugee,corporate,guy,
+		第  106页有6个单词, 词汇列表为: profile,jerk,guy,media,circus,sculpture,
+		第  108页有6个单词, 词汇列表为: software,guy,straightforward,corps,presentation,mock,
+		第  116页有6个单词, 词汇列表为: token,haunt,differentiate,random,midst,diet,
+		第  135页有6个单词, 词汇列表为: vocal,bid,aesthetic,replacement,cater,articulate,
+		第  136页有6个单词, 词汇列表为: automation,software,poster,guy,sauce,nasty,
+		第  137页有6个单词, 词汇列表为: charm,whereas,elegant,elbow,enhance,inventory,
+		第  147页有6个单词, 词汇列表为: corporate,rebellion,counsel,confront,agenda,brutal,
+		第  157页有6个单词, 词汇列表为: collaboration,guy,inspiration,romance,sue,enterprise,
+		第  158页有6个单词, 词汇列表为: chip,sue,integrity,indulge,spectacular,corporate,
+		第  166页有6个单词, 词汇列表为: software,forum,destined,prototype,alliance,gamble,
+		第  174页有6个单词, 词汇列表为: software,integral,cartoon,guy,recruit,given,
+		第  175页有6个单词, 词汇列表为: brutal,budget,clash,ego,bunch,assert,
+		第  209页有6个单词, 词汇列表为: gloomy,advent,web,consumer,decline,corrupt,
+		第  214页有6个单词, 词汇列表为: horrible,facet,garbage,destined,guy,interim,
+		第  237页有6个单词, 词汇列表为: dubious,software,upgrade,summon,ban,confront,
+		第  243页有6个单词, 词汇列表为: accommodate,integral,studio,foam,metallic,corporate,
+		第  250页有6个单词, 词汇列表为: rally,script,grab,elegant,exile,terrific,
+		第  253页有6个单词, 词汇列表为: rigorous,inventory,interact,strategic,caution,intuition,
+		第  268页有6个单词, 词汇列表为: software,edit,consumer,bunch,elegant,slot,
+		第  273页有6个单词, 词汇列表为: insight,software,foam,conceive,consumer,purity,
+		第  284页有6个单词, 词汇列表为: software,sauce,assurance,negotiate,corporate,prone,
+		第  326页有6个单词, 词汇列表为: snap,tablet,studio,given,numerical,software,
+		第  338页有6个单词, 词汇列表为: given,slogan,innovation,declaration,soar,collaboration,
+		第  369页有6个单词, 词汇列表为: competitive,software,media,consumer,integrate,client,
+		第   13页有5个单词, 词汇列表为: decent,estate,obedient,premium,option,
+		第   15页有5个单词, 词汇列表为: underlying,theme,notion,stereotype,tract,
+		第   29页有5个单词, 词汇列表为: readily,lubricate,electronics,incredible,guy,
+		第   40页有5个单词, 词汇列表为: tuition,subtle,intersection,quest,profound,
+		第   52页有5个单词, 词汇列表为: historian,fusion,participant,presentation,underlying,
+		第   55页有5个单词, 词汇列表为: software,notion,guy,dubious,straightforward,
+		第   59页有5个单词, 词汇列表为: impart,verge,relay,electronics,retail,
+		第   77页有5个单词, 词汇列表为: gorgeous,prototype,bunch,dazzle,confidential,
+		第   90页有5个单词, 词汇列表为: barely,henceforth,stereo,boom,interim,
+		第   99页有5个单词, 词汇列表为: classic,plaster,barely,patent,inspiration,
+		第  109页有5个单词, 词汇列表为: ripple,publicity,minimize,prototype,raid,
+		第  120页有5个单词, 词汇列表为: versus,dominate,destined,software,gasp,
+		第  128页有5个单词, 词汇列表为: rip,software,analytic,guy,temperament,
+		第  134页有5个单词, 词汇列表为: brutal,indulge,anniversary,elegant,expertise,
+		第  154页有5个单词, 词汇列表为: chip,software,thesis,agenda,competitive,
+		第  165页有5个单词, 词汇列表为: software,profitable,periodic,brutal,divert,
+		第  172页有5个单词, 词汇列表为: negotiate,agenda,software,corrupt,web,
+		第  177页有5个单词, 词汇列表为: software,realistic,classic,presentation,quest,
+		第  180页有5个单词, 词汇列表为: prototype,given,rage,romance,destined,
+		第  187页有5个单词, 词汇列表为: consumer,guy,purity,prone,lobby,
+		第  188页有5个单词, 词汇列表为: purity,anonymous,brood,spectrum,manifest,
+		第  192页有5个单词, 词汇列表为: residential,horrible,bizarre,insane,indulge,
+		第  196页有5个单词, 词汇列表为: tile,sturdy,impulse,versus,thrill,
+		第  204页有5个单词, 词汇列表为: mess,script,budget,given,diplomatic,
+		第  216页有5个单词, 词汇列表为: tablet,conspicuous,competitive,ego,dual,
+		第  228页有5个单词, 词汇列表为: climax,destructive,patent,exclusive,massive,
+		第  234页有5个单词, 词汇列表为: classic,reclaim,intuition,corporate,studio,
+		第  235页有5个单词, 词汇列表为: interim,commitment,tentative,consultant,kidney,
+		第  246页有5个单词, 词汇列表为: collaboration,consumer,robust,compact,foam,
+		第  247页有5个单词, 词汇列表为: foam,prototype,fitting,scared,aesthetic,
+		第  248页有5个单词, 词汇列表为: studio,elegant,slot,cartoon,clip,
+		第  251页有5个单词, 词汇列表为: slap,slot,rip,ripple,imaginative,
+		第  256页有5个单词, 词汇列表为: guy,dock,apt,trait,interim,
+		第  262页有5个单词, 词汇列表为: explicit,recipe,retail,insight,prototype,
+		第  277页有5个单词, 词汇列表为: dubious,indulge,theft,incentive,software,
+		第  287页有5个单词, 词汇列表为: insight,skip,subtle,identity,facilitate,
+		第  300页有5个单词, 词汇列表为: given,classic,architect,creation,random,
+		第  304页有5个单词, 词汇列表为: notion,contribution,collaboration,corporate,theme,
+		第  324页有5个单词, 词汇列表为: mess,grab,premium,consumer,horrible,
+		第  333页有5个单词, 词汇列表为: forum,furious,denial,quest,dual,
+		第  342页有5个单词, 词汇列表为: confront,badge,silicon,historic,transplant,
+		第  343页有5个单词, 词汇列表为: web,given,intersection,feminine,tablet,
+		第  346页有5个单词, 词汇列表为: given,fist,array,fake,straightforward,
+		第  353页有5个单词, 词汇列表为: veto,optimism,corporate,curriculum,certify,
+		第  357页有5个单词, 词汇列表为: bunch,privacy,ban,editorial,gossip,
+		第  360页有5个单词, 词汇列表为: fake,flaw,massive,rigorous,perception,
+		第  364页有5个单词, 词汇列表为: elicit,presentation,intersection,tablet,software,
+		第  379页有5个单词, 词汇列表为: prone,induce,array,depression,vicious,
+		第  382页有5个单词, 词汇列表为: guy,global,media,incredible,software,
+		第  389页有5个单词, 词汇列表为: drawback,tablet,contempt,offspring,integrate,
+		第  390页有5个单词, 词汇列表为: software,aesthetic,nasty,creation,myth,
+		第    3页有4个单词, 词汇列表为: entrepreneur,perfection,tablet,software,
+		第   16页有4个单词, 词汇列表为: negotiate,pledge,estate,radiant,
+		第   17页有4个单词, 词汇列表为: scared,guy,boom,spy,
+		第   18页有4个单词, 词汇列表为: cradle,tenant,chip,silicon,
+		第   19页有4个单词, 词汇列表为: electronics,competence,damn,accommodate,
+		第   27页有4个单词, 词汇列表为: legend,striking,guy,electronics,
+		第   35页有4个单词, 词汇列表为: rigorous,rebellion,quest,massive,
+		第   45页有4个单词, 词汇列表为: furious,pursuit,intellect,intuition,
+		第   47页有4个单词, 词汇列表为: therapy,profound,given,refrain,
+		第   56页有4个单词, 词汇列表为: thereafter,dwell,ally,slot,
+		第   57页有4个单词, 词汇列表为: global,slot,presentation,bunch,
+		第   62页有4个单词, 词汇列表为: presentation,ingenious,consumer,elegant,
+		第   64页有4个单词, 词汇列表为: chip,cautious,shrewd,decent,
+		第   69页有4个单词, 词汇列表为: diet,destined,badge,ego,
+		第   82页有4个单词, 词汇列表为: given,poster,bulletin,formulate,
+		第   91页有4个单词, 词汇列表为: software,realistic,sheer,compliment,
+		第  102页有4个单词, 词汇列表为: decisive,declaration,consumer,aesthetic,
+		第  110页有4个单词, 词汇列表为: disregard,corporate,option,guy,
+		第  113页有4个单词, 词汇列表为: consumer,corporate,publicity,enrich,
+		第  114页有4个单词, 词汇列表为: architect,corporate,sculpture,prototype,
+		第  130页有4个单词, 词汇列表为: interact,incredible,bunch,software,
+		第  133页有4个单词, 词汇列表为: dismay,elegant,aesthetic,flaw,
+		第  138页有4个单词, 词汇列表为: furious,horrible,sentiment,corporate,
+		第  143页有4个单词, 词汇列表为: contempt,nasty,stern,mess,
+		第  150页有4个单词, 词汇列表为: software,hearing,presentation,given,
+		第  151页有4个单词, 词汇列表为: option,acknowledge,verse,notable,
+		第  155页有4个单词, 词汇列表为: fraud,hearing,pledge,raid,
+		第  159页有4个单词, 词汇列表为: clarity,purity,elegant,fist,
+		第  160页有4个单词, 词汇列表为: snap,likelihood,confidential,alleviate,
+		第  161页有4个单词, 词汇列表为: perfection,purity,susceptible,sheer,
+		第  162页有4个单词, 词汇列表为: lobby,staircase,incorporate,corporate,
+		第  168页有4个单词, 词汇列表为: veil,software,historic,poke,
+		第  173页有4个单词, 词汇列表为: software,corporate,realistic,revive,
+		第  176页有4个单词, 词汇列表为: software,decent,given,midst,
+		第  183页有4个单词, 词汇列表为: shipment,detective,revelation,refrain,
+		第  193页有4个单词, 词汇列表为: fluctuate,engagement,cluster,guy,
+		第  197页有4个单词, 词汇列表为: software,jail,colonial,given,
+		第  198页有4个单词, 词汇列表为: yell,undermine,destructive,given,
+		第  202页有4个单词, 词汇列表为: studio,verge,given,option,
+		第  210页有4个单词, 词汇列表为: bid,elegant,rally,immune,
+		第  238页有4个单词, 词汇列表为: bunch,momentum,massive,consumer,
+		第  240页有4个单词, 词汇列表为: collaboration,fantastic,despise,thesis,
+		第  245页有4个单词, 词汇列表为: ritual,temperament,guy,vulnerable,
+		第  257页有4个单词, 词汇列表为: interim,massive,haunt,software,
+		第  258页有4个单词, 词汇列表为: incorporate,software,dock,interim,
+		第  264页有4个单词, 词汇列表为: tile,notable,buzz,boost,
+		第  270页有4个单词, 词汇列表为: ample,exclusive,successor,furious,
+		第  281页有4个单词, 词汇列表为: dual,software,carve,spectrum,
+		第  283页有4个单词, 词汇列表为: subscribe,software,gracious,concession,
+		第  290页有4个单词, 词汇列表为: melody,fixture,guy,grab,
+		第  296页有4个单词, 词汇列表为: electronics,corporate,bunch,robust,
+		第  302页有4个单词, 词汇列表为: testimony,theft,assert,fake,
+		第  308页有4个单词, 词汇列表为: radical,senator,presentation,hearing,
+		第  310页有4个单词, 词汇列表为: publicity,subtle,sculpture,consumer,
+		第  315页有4个单词, 词汇列表为: speculate,kidney,barely,immune,
+		第  322页有4个单词, 词汇列表为: software,hearing,cordial,solo,
+		第  327页有4个单词, 词汇列表为: activate,software,integrity,elegant,
+		第  331页有4个单词, 词汇列表为: barely,dubious,versatile,fantastic,
+		第  334页有4个单词, 词汇列表为: privacy,violate,forthcoming,counsel,
+		第  344页有4个单词, 词汇列表为: facilitate,consumer,creation,chip,
+		第  345页有4个单词, 词汇列表为: chat,software,consumer,guy,
+		第  352页有4个单词, 词汇列表为: mess,specifically,axis,destructive,
+		第  354页有4个单词, 词汇列表为: versus,furious,context,slogan,
+		第  363页有4个单词, 词汇列表为: studio,pedestrian,snap,hinge,
+		第  383页有4个单词, 词汇列表为: disrupt,bearing,curriculum,cruise,
+		第   24页有3个单词, 词汇列表为: electronics,paradise,surplus,
+		第   25页有3个单词, 词汇列表为: electronics,guy,bunch,
+		第   30页有3个单词, 词汇列表为: presentation,script,bunch,
+		第   34页有3个单词, 词汇列表为: tow,bulletin,pledge,
+		第   36页有3个单词, 词汇列表为: hatch,engagement,barely,
+		第   38页有3个单词, 词汇列表为: conviction,insane,eccentric,
+		第   44页有3个单词, 词汇列表为: given,estate,impart,
+		第   46页有3个单词, 词汇列表为: subtle,intuition,blossom,
+		第   48页有3个单词, 词汇列表为: impart,chip,recruit,
+		第   50页有3个单词, 词汇列表为: bonus,chip,facet,
+		第   51页有3个单词, 词汇列表为: electronics,conform,fusion,
+		第   58页有3个单词, 词汇列表为: pregnant,given,chip,
+		第   60页有3个单词, 词汇列表为: consultant,prototype,successor,
+		第   66页有3个单词, 词汇列表为: software,exclusive,guy,
+		第   67页有3个单词, 词汇列表为: coincide,poster,furious,
+		第   70页有3个单词, 词汇列表为: enthusiastic,historic,solo,
+		第   71页有3个单词, 词汇列表为: tract,foam,toss,
+		第   73页有3个单词, 词汇列表为: obscene,testify,given,
+		第   75页有3个单词, 词汇列表为: presentation,conceive,straightforward,
+		第   79页有3个单词, 词汇列表为: virtual,execution,retail,
+		第   84页有3个单词, 词汇列表为: mortgage,cruise,poster,
+		第   86页有3个单词, 词汇列表为: simulate,distort,destined,
+		第   89页有3个单词, 词汇列表为: spontaneous,prototype,sheer,
+		第   93页有3个单词, 词汇列表为: mortal,specifically,trait,
+		第   95页有3个单词, 词汇列表为: guy,profitable,budget,
+		第   98页有3个单词, 词汇列表为: seminar,prototype,classic,
+		第  100页有3个单词, 词汇列表为: rectangular,array,elegant,
+		第  105页有3个单词, 词汇列表为: software,energetic,confidential,
+		第  111页有3个单词, 词汇列表为: corporate,closet,grin,
+		第  118页有3个单词, 词汇列表为: brutal,budget,dominate,
+		第  124页有3个单词, 词汇列表为: software,theme,tentative,
+		第  129页有3个单词, 词汇列表为: forthcoming,silicon,software,
+		第  140页有3个单词, 词汇列表为: given,bonus,software,
+		第  142页有3个单词, 词汇列表为: clause,furious,episode,
+		第  145页有3个单词, 词汇列表为: brutal,counsel,given,
+		第  148页有3个单词, 词汇列表为: poll,corporate,counsel,
+		第  152页有3个单词, 词汇列表为: gasp,texture,embassy,
+		第  156页有3个单词, 词汇列表为: recruit,publicity,retrieve,
+		第  171页有3个单词, 词汇列表为: intersection,software,cartoon,
+		第  182页有3个单词, 词汇列表为: toss,lobby,straightforward,
+		第  185页有3个单词, 词汇列表为: foil,diet,heighten,
+		第  194页有3个单词, 词汇列表为: fake,bachelor,timber,
+		第  199页有3个单词, 词汇列表为: humanity,denial,journalist,
+		第  203页有3个单词, 词汇列表为: essence,presentation,classic,
+		第  205页有3个单词, 词汇列表为: verge,dubious,given,
+		第  213页有3个单词, 词汇列表为: software,negotiate,classic,
+		第  218页有3个单词, 词汇列表为: software,insane,given,
+		第  222页有3个单词, 词汇列表为: manipulate,guy,grab,
+		第  227页有3个单词, 词汇列表为: strategic,given,corporate,
+		第  229页有3个单词, 词汇列表为: software,patent,commitment,
+		第  236页有3个单词, 词汇列表为: rally,innovation,notion,
+		第  239页有3个单词, 词汇列表为: interim,presentation,profitable,
+		第  241页有3个单词, 词汇列表为: hearing,foam,studio,
+		第  249页有3个单词, 词汇列表为: given,clip,chorus,
+		第  254页有3个单词, 词汇列表为: intuition,prone,inventory,
+		第  255页有3个单词, 词汇列表为: foster,collaboration,software,
+		第  259页有3个单词, 词汇列表为: incentive,retail,innovation,
+		第  269页有3个单词, 词汇列表为: software,format,slogan,
+		第  274页有3个单词, 词汇列表为: conspicuous,straightforward,triple,
+		第  278页有3个单词, 词汇列表为: destructive,guy,intuition,
+		第  279页有3个单词, 词汇列表为: prototype,domain,consumer,
+		第  285页有3个单词, 词汇列表为: brutal,consumer,electronics,
+		第  297页有3个单词, 词汇列表为: comedy,versatile,profound,
+		第  299页有3个单词, 词汇列表为: vent,guy,comedy,
+		第  303页有3个单词, 词汇列表为: historic,theme,studio,
+		第  306页有3个单词, 词汇列表为: intersection,consumer,revelation,
+		第  307页有3个单词, 词汇列表为: acquisition,skeptical,studio,
+		第  314页有3个单词, 词汇列表为: counsel,corporate,given,
+		第  316页有3个单词, 词汇列表为: kidney,clinic,diet,
+		第  321页有3个单词, 词汇列表为: compile,legend,trait,
+		第  325页有3个单词, 词汇列表为: tablet,guy,software,
+		第  330页有3个单词, 词汇列表为: global,tablet,dissipate,
+		第  332页有3个单词, 词汇列表为: corporate,given,lease,
+		第  335页有3个单词, 词汇列表为: transplant,recipient,likelihood,
+		第  336页有3个单词, 词汇列表为: transplant,genetic,fragile,
+		第  337页有3个单词, 词汇列表为: barely,distract,option,
+		第  339页有3个单词, 词汇列表为: recipient,productive,consecutive,
+		第  340页有3个单词, 词汇列表为: tablet,software,boost,
+		第  356页有3个单词, 词汇列表为: consumer,differentiate,software,
+		第  358页有3个单词, 词汇列表为: controversial,web,media,
+		第  361页有3个单词, 词汇列表为: perception,media,assert,
+		第  365页有3个单词, 词汇列表为: cruise,marble,insight,
+		第  366页有3个单词, 词汇列表为: yacht,anniversary,elegant,
+		第  370页有3个单词, 词汇列表为: aerial,retail,massive,
+		第  381页有3个单词, 词汇列表为: flatter,furious,guy,
+		第  385页有3个单词, 词汇列表为: incredible,tablet,given,
+		第  393页有3个单词, 词汇列表为: fantastic,contribution,rip,
+		第   12页有2个单词, 词汇列表为: resemblance,disposition,
+		第   14页有2个单词, 词汇列表为: specifically,given,
+		第   20页有2个单词, 词汇列表为: bribe,kit,
+		第   22页有2个单词, 词汇列表为: electronics,software,
+		第   23页有2个单词, 词汇列表为: gear,cafeteria,
+		第   31页有2个单词, 词汇列表为: cereal,summit,
+		第   33页有2个单词, 词汇列表为: fragile,symphony,
+		第   39页有2个单词, 词汇列表为: economics,intervene,
+		第   43页有2个单词, 词汇列表为: quest,implement,
+		第   49页有2个单词, 词汇列表为: bonus,given,
+		第   61页有2个单词, 词汇列表为: prototype,ingenious,
+		第   68页有2个单词, 词汇列表为: ethnic,fake,
+		第   76页有2个单词, 词汇列表为: software,corporate,
+		第   85页有2个单词, 词汇列表为: guy,thesis,
+		第   92页有2个单词, 词汇列表为: assert,distort,
+		第   97页有2个单词, 词汇列表为: architect,theme,
+		第  112页有2个单词, 词汇列表为: replacement,corporate,
+		第  115页有2个单词, 词汇列表为: ego,sculpture,
+		第  119页有2个单词, 词汇列表为: software,theme,
+		第  121页有2个单词, 词汇列表为: resonance,corporate,
+		第  125页有2个单词, 词汇列表为: verse,dominate,
+		第  126页有2个单词, 词汇列表为: theme,creation,
+		第  131页有2个单词, 词汇列表为: software,priority,
+		第  132页有2个单词, 词汇列表为: classic,hearing,
+		第  139页有2个单词, 词汇列表为: software,foremost,
+		第  149页有2个单词, 词汇列表为: retrieve,plea,
+		第  153页有2个单词, 词汇列表为: gene,simulate,
+		第  163页有2个单词, 词汇列表为: charm,realistic,
+		第  164页有2个单词, 词汇列表为: segment,bunch,
+		第  167页有2个单词, 词汇列表为: trivial,software,
+		第  170页有2个单词, 词汇列表为: trait,software,
+		第  178页有2个单词, 词汇列表为: software,given,
+		第  181页有2个单词, 词汇列表为: quest,detective,
+		第  184页有2个单词, 词汇列表为: ambassador,evoke,
+		第  186页有2个单词, 词汇列表为: elegant,destined,
+		第  190页有2个单词, 词汇列表为: composite,guy,
+		第  191页有2个单词, 词汇列表为: grab,irony,
+		第  201页有2个单词, 词汇列表为: negotiate,given,
+		第  212页有2个单词, 词汇列表为: assurance,reconcile,
+		第  220页有2个单词, 词汇列表为: journalist,editorial,
+		第  221页有2个单词, 词汇列表为: cellar,charm,
+		第  223页有2个单词, 词汇列表为: destined,forthcoming,
+		第  224页有2个单词, 词汇列表为: integrity,interim,
+		第  225页有2个单词, 词汇列表为: corporate,guy,
+		第  226页有2个单词, 词汇列表为: consumer,recruit,
+		第  230页有2个单词, 词汇列表为: brutal,notion,
+		第  232页有2个单词, 词汇列表为: guy,purity,
+		第  252页有2个单词, 词汇列表为: fantasy,software,
+		第  272页有2个单词, 词汇列表为: option,slot,
+		第  276页有2个单词, 词汇列表为: endeavor,corporate,
+		第  292页有2个单词, 词汇列表为: exclusive,script,
+		第  294页有2个单词, 词汇列表为: negotiate,royalty,
+		第  295页有2个单词, 词汇列表为: assert,royalty,
+		第  312页有2个单词, 词汇列表为: option,poster,
+		第  313页有2个单词, 词汇列表为: adverse,publicity,
+		第  317页有2个单词, 词汇列表为: assumption,radical,
+		第  323页有2个单词, 词汇列表为: software,gracious,
+		第  349页有2个单词, 词汇列表为: web,withhold,
+		第  367页有2个单词, 词汇列表为: corporate,insight,
+		第  372页有2个单词, 词汇列表为: genetic,intersection,
+		第  373页有2个单词, 词汇列表为: elegant,installment,
+		第  374页有2个单词, 词汇列表为: cavity,incredible,
+		第  375页有2个单词, 词汇列表为: resemblance,compensate,
+		第  376页有2个单词, 词汇列表为: token,innovation,
+		第  377页有2个单词, 词汇列表为: given,context,
+		第  394页有2个单词, 词汇列表为: species,invaluable,
+		第   26页有1个单词, 词汇列表为: stereo,
+		第   32页有1个单词, 词汇列表为: guy,
+		第   37页有1个单词, 词汇列表为: barely,
+		第   65页有1个单词, 词汇列表为: indulge,
+		第   83页有1个单词, 词汇列表为: bizarre,
+		第   96页有1个单词, 词汇列表为: notion,
+		第  101页有1个单词, 词汇列表为: gene,
+		第  103页有1个单词, 词汇列表为: corporate,
+		第  104页有1个单词, 词汇列表为: software,
+		第  141页有1个单词, 词汇列表为: corporate,
+		第  179页有1个单词, 词汇列表为: charity,
+		第  189页有1个单词, 词汇列表为: aesthetic,
+		第  195页有1个单词, 词汇列表为: comedy,
+		第  208页有1个单词, 词汇列表为: software,
+		第  211页有1个单词, 词汇列表为: software,
+		第  233页有1个单词, 词汇列表为: evoke,
+		第  260页有1个单词, 词汇列表为: mall,
+		第  265页有1个单词, 词汇列表为: intersection,
+		第  266页有1个单词, 词汇列表为: array,
+		第  282页有1个单词, 词汇列表为: mess,
+		第  289页有1个单词, 词汇列表为: solo,
+		第  293页有1个单词, 词汇列表为: propel,
+		第  298页有1个单词, 词汇列表为: circus,
+		第  309页有1个单词, 词汇列表为: consumer,
+		第  311页有1个单词, 词汇列表为: chip,
+		第  320页有1个单词, 词汇列表为: furious,
+		第  328页有1个单词, 词汇列表为: premise,
+		第  368页有1个单词, 词汇列表为: thermal,
+		第  371页有1个单词, 词汇列表为: quarterly,
+		第  384页有1个单词, 词汇列表为: transition,
+		第  387页有1个单词, 词汇列表为: flaw,
+		第  411页有1个单词, 词汇列表为: versus,
