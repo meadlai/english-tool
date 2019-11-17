@@ -1,0 +1,19 @@
+<persistence version="2.0"
+  xmlns="http://java.sun.com/xml/ns/persistence" xmlns:orm="http://java.sun.com/xml/ns/persistence/orm"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd 
+                      http://java.sun.com/xml/ns/persistence/orm http://java.sun.com/xml/ns/persistence/orm_2_0.xsd">
+
+  <persistence-unit name="persistence_unit_kmboot">
+    <properties>
+      <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" />
+      <property name="hibernate.jdbe.fetch_size" value="1000" />
+      <property name="hibernate.max_fetch_depth" value="3" />
+      <property name="hibernate.hbm2ddl.auto" value="update" />
+      <property name="hibernate.show_sql" value="true" />
+      <property name="hibernate.use.sql_comments" value="true" />
+      <property name="hibernate.id.new_generator_mappings" value="true" />
+    </properties>
+  </persistence-unit>
+
+</persistence>
